@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Collection Item" max_length="40" name="x_680635_collect_0_collection_item" type="collection">
+        <element label="Item" max_length="150" name="item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element display="true" label="Value" max_length="40" name="value" type="integer"/>
+        <element label="Cost" max_length="40" name="cost" type="integer"/>
+    </element>
+</database>

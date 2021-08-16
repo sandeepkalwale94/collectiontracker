@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="value" label="Value" language="en" table="x_680635_collect_0_collection_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>value</element>
+            <help/>
+            <hint/>
+            <label>Value</label>
+            <language>en</language>
+            <name>x_680635_collect_0_collection_item</name>
+            <plural>Values</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-15 12:16:40</sys_created_on>
+            <sys_id>5b97766c1b463010f684404cbc4bcb7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Value</sys_name>
+            <sys_package display_value="Collection Tracker" source="x_680635_collect_0">f694f2e81b463010f684404cbc4bcb00</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Collection Tracker">f694f2e81b463010f684404cbc4bcb00</sys_scope>
+            <sys_update_name>sys_documentation_x_680635_collect_0_collection_item_value_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-15 12:16:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
